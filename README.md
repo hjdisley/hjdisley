@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hayden Disley</h1>
-<h3 align="center">Full-stack Developer! 👨‍💻</h3>
+<h3 align="center">Full-stack Developer, based in Manchester! 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Building on React/React Native and Python and Swift.**
+- 🌱 I’m currently learning **Building on React/React Native knowledge and Python and Swift.**
 
 - 👨‍💻 All of my projects are available at [haydendisley.com](haydendisley.com)
 
